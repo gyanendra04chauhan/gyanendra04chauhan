@@ -1,192 +1,237 @@
+<!-- ========================= HEADER ========================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Gyanendra%20Chauhan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20Machine%20Learning%20%7C%20Generative%20AI&descAlignY=60&descSize=16" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00c6ff,50:0072ff,100:7b2ff7&height=260&section=header&text=Gyanendra%20Chauhan&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Scientist%20in%20the%20making%20%E2%80%A2%20ML%20%E2%80%A2%20GenAI%20%E2%80%A2%20NLP&descAlignY=62&descSize=18" width="100%" alt="header"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B+I'm+Gyanendra;B.Tech+CSE+(AI+%26+ML)+Student;I+turn+data+into+working+ML+apps;Python+%7C+Scikit-learn+%7C+TensorFlow+%7C+Streamlit" alt="Typing SVG" />
+<a href="https://github.com/gyanendra04chauhan">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=00C6FF&center=true&vCenter=true&width=700&height=50&lines=%F0%9F%91%8B+Hey%2C+I'm+Gyanendra!;%F0%9F%8E%93+B.Tech+CSE+(AI+%26+ML)+%7C+2023+%E2%80%93+2027;%F0%9F%A4%96+I+turn+raw+data+into+working+ML+apps;%F0%9F%9A%80+Python+%E2%80%A2+Scikit-learn+%E2%80%A2+TensorFlow+%E2%80%A2+Streamlit;%F0%9F%93%A9+Open+to+Data+Science+%26+ML+internships" alt="Typing SVG" />
 </a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=gyanendra04chauhan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/gyanendra04chauhan?tab=followers"><img src="https://img.shields.io/github/followers/gyanendra04chauhan?style=flat&logo=github&label=Followers" alt="followers" /></a>
-</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/gyanendra-chauhan7317"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:gyanendra2007chauhan@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **B.Tech Computer Science (AI & ML)** student (2023 – 2027) from **Unnao, Uttar Pradesh, India**, with strong foundations in **Machine Learning, Data Structures and Python**.
-
-I like taking a problem from raw data all the way to a working, deployed app: exploring the data, engineering features, comparing models, and shipping the best one as an interactive **Streamlit** web app.
-
-- 🔭 Building end-to-end ML projects with real-world datasets
-- 🌱 Currently deepening my knowledge of **Generative AI, NLP and LLMs**
-- 🎯 Looking for **Data Science / ML internship and entry-level opportunities**
-- 💬 Ask me about: Python, machine learning, data analysis, Streamlit apps
-
----
-
-## 🛠️ Tech Stack
-
-**Programming**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-**AI / Machine Learning**
-
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-Deep%20Learning-blueviolet?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-Text%20Processing-2ea44f?style=for-the-badge)
-![GenAI](https://img.shields.io/badge/Generative%20AI-LLMs-ff69b4?style=for-the-badge)
-
-**Data & Databases**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🏦 Credit Wise: Loan Approval System
-
-> An end-to-end supervised ML pipeline that predicts whether a loan will be approved, deployed as a real-time web app.
-
-| Metric | Score |
-| :--- | :---: |
-| Accuracy | **86.5%** |
-| Precision | **78.3%** |
-| Recall | **77.0%** |
-| F1-Score | **77.7%** |
-
-- Trained and compared **Logistic Regression, KNN and Naive Bayes** classifiers
-- Performed EDA and feature engineering for binary classification
-- Deployed the best-performing model as an interactive **Streamlit** app
-
-**Tech:** `Python` `NumPy` `Pandas` `Matplotlib` `Seaborn` `Scikit-learn` `Streamlit`
-
-<!-- 👉 Add your links: [Source Code](https://github.com/gyanendra04chauhan/YOUR-REPO) · [Live Demo](https://YOUR-APP.streamlit.app) -->
-
----
-
-### 🏠 House Price Predictor
-
-> A regression model that estimates house prices, served through a clean two-column Streamlit interface with a live metrics sidebar.
-
-| Metric | Score |
-| :--- | :---: |
-| R² Score | **0.375** |
-| MAE | **~30,747** |
-| RMSE | **~41,109** |
-
-- Applied data preprocessing and feature engineering to improve model readiness
-- Evaluated on held-out test data
-- Real-time predictions with a live metrics sidebar
-
-**Tech:** `Python` `Pandas` `Scikit-learn` `Streamlit`
-
-<!-- 👉 Add your links: [Source Code](https://github.com/gyanendra04chauhan/YOUR-REPO) · [Live Demo](https://YOUR-APP.streamlit.app) -->
-
----
-
-## 💼 Experience
-
-| Role | Organization | Duration |
-| :--- | :--- | :--- |
-| **Python Full Stack Virtual Intern** | EduSkills Foundation | Oct 2024 – Dec 2024 |
-| **Google AI-ML Virtual Intern** | EduSkills Foundation | Jul 2024 – Sep 2024 |
-
-<details>
-<summary><b>📌 What I worked on</b></summary>
-
-**Python Full Stack Virtual Intern**
-- Developed Python full-stack components and API-driven workflows for an educational platform
-- Contributed to frontend-backend integration, debugging and performance optimization
-
-**Google AI-ML Virtual Intern**
-- Applied supervised and unsupervised learning techniques on structured datasets
-- Performed feature engineering, data preprocessing and model evaluation using Python and Scikit-learn
-
-</details>
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year |
-| :--- | :--- | :---: |
-| **B.Tech, Computer Science (AI & ML)** | Axis Institute of Technology and Management, Kanpur (AKTU, Lucknow) | 2023 – 2027 |
-| **Senior Secondary (Class XII)** | Saraswati Vidya Mandir Inter College, Unnao | 2023 |
-| **Higher Secondary (Class X)** | Saraswati Vidya Mandir Inter College, Unnao | 2021 |
-
----
-
-## 🏅 Certifications & Achievements
-
-- ☁️ **Machine Learning Essentials for Business and Technical Decision Makers**, AWS
-- ☁️ **Introduction to Machine Learning: Art of the Possible**, AWS
-- 🎨 **Introduction to Generative AI**, Adobe
-- 🧪 **Machine Learning Model Development Workshop**, Softpro India
-- 💡 **Smart India Hackathon (SIH) 2026**, participated in the internal round, showcasing teamwork, innovation and problem-solving
-
----
-
-## 🤝 Soft Skills
-
-`Communication` · `Leadership` · `Team Management` · `Critical Thinking` · `Problem Solving`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=gyanendra04chauhan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanendra04chauhan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gyanendra04chauhan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-I'm open to internships, collaborations and conversations about data science and AI.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/gyanendra-chauhan7317"><img src="https://img.shields.io/badge/LinkedIn-gyanendra--chauhan7317-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:gyanendra2007chauhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-gyanendra2007chauhan-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" /></a>
 
 <br/><br/>
 
-<i>⭐ If you like my work, feel free to star a repo or say hi!</i>
+<a href="https://www.linkedin.com/in/gyanendra-chauhan7317"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:gyanendra2007chauhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://github.com/gyanendra04chauhan?tab=repositories"><img src="https://img.shields.io/badge/Portfolio-My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repos"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="footer"/>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=gyanendra04chauhan&label=Profile%20Views&color=7b2ff7&style=for-the-badge" alt="views"/>
+<img src="https://img.shields.io/github/followers/gyanendra04chauhan?label=Followers&style=for-the-badge&logo=github&color=0072ff" alt="followers"/>
 
 </div>
 
+<br/>
+
+<!-- ========================= ABOUT ========================= -->
+<h2 align="center">⚡ About Me</h2>
+
+```python
+class GyanendraChauhan:
+    def __init__(self):
+        self.role      = "Aspiring Data Scientist"
+        self.degree    = "B.Tech CSE (AI & ML), 2023 - 2027"
+        self.location  = "Unnao, Uttar Pradesh, India 🇮🇳"
+        self.languages = ["Python", "Java", "C"]
+        self.focus     = ["Machine Learning", "NLP", "Generative AI", "LLMs"]
+        self.internships = ["Google AI-ML Virtual Intern", "Python Full Stack Virtual Intern"]
+        self.superpower  = "Taking a problem from raw data to a deployed app"
+
+    def current_mission(self):
+        return "Building end-to-end ML projects & leveling up in GenAI"
+
+    def open_to(self):
+        return ["Data Science internships", "ML roles", "Collaborations"]
+```
+
+<br/>
+
+<!-- ========================= TECH STACK ========================= -->
+<h2 align="center">🛠️ Tech Arsenal</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,c,tensorflow,sklearn,pandas,numpy,fastapi,mysql,oracle,git,github,vscode,jupyter&perline=7" alt="skills"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square"/>
+<img src="https://img.shields.io/badge/CNN-Deep%20Learning-blueviolet?style=flat-square"/>
+<img src="https://img.shields.io/badge/NLP-Language%20AI-2ea44f?style=flat-square"/>
+<img src="https://img.shields.io/badge/Generative%20AI-LLMs-ff69b4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Supervised%20%26%20Unsupervised-Learning-orange?style=flat-square"/>
+
+</div>
+
+<br/>
+
+<!-- ========================= PROJECTS ========================= -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🏦 Credit Wise
+**Loan Approval Prediction System**
+
+An end-to-end supervised ML pipeline that predicts loan approval, deployed as a real-time web app.
+
+![Accuracy](https://img.shields.io/badge/Accuracy-86.5%25-brightgreen?style=flat-square)
+![Precision](https://img.shields.io/badge/Precision-78.3%25-blue?style=flat-square)
+![Recall](https://img.shields.io/badge/Recall-77.0%25-orange?style=flat-square)
+![F1](https://img.shields.io/badge/F1--Score-77.7%25-purple?style=flat-square)
+
+- Compared **Logistic Regression, KNN & Naive Bayes**
+- EDA + feature engineering for binary classification
+- Best model deployed on **Streamlit**
+
+`Python` `Pandas` `NumPy` `Scikit-learn` `Seaborn` `Streamlit`
+
+<!-- 👉 UNCOMMENT & EDIT:
+[![Code](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/gyanendra04chauhan/YOUR-REPO)
+[![Live](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://YOUR-APP.streamlit.app)
+-->
+
+</td>
+<td width="50%" valign="top">
+
+### 🏠 House Price Predictor
+**Regression Model with Live Metrics**
+
+A regression model that estimates house prices, served through a clean two-column Streamlit UI with a live metrics sidebar.
+
+![R2](https://img.shields.io/badge/R%C2%B2-0.375-yellow?style=flat-square)
+![MAE](https://img.shields.io/badge/MAE-~30.7K-blue?style=flat-square)
+![RMSE](https://img.shields.io/badge/RMSE-~41.1K-orange?style=flat-square)
+
+- Data preprocessing + feature engineering
+- Evaluated on held-out test data
+- Real-time predictions in the browser
+
+`Python` `Pandas` `Scikit-learn` `Streamlit`
+
+<!-- 👉 UNCOMMENT & EDIT:
+[![Code](https://img.shields.io/badge/View-Code-181717?style=for-the-badge&logo=github)](https://github.com/gyanendra04chauhan/YOUR-REPO)
+[![Live](https://img.shields.io/badge/Live-Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://YOUR-APP.streamlit.app)
+-->
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ========================= EXPERIENCE ========================= -->
+<h2 align="center">💼 Experience</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**🐍 Python Full Stack Virtual Intern**
+<br/>EduSkills Foundation
+<br/>`Oct 2024 – Dec 2024`
+
+Built Python full-stack components and API-driven workflows for an educational platform. Worked on frontend-backend integration, debugging and performance optimization.
+
+</td>
+<td align="center" width="50%">
+
+**🤖 Google AI-ML Virtual Intern**
+<br/>EduSkills Foundation
+<br/>`Jul 2024 – Sep 2024`
+
+Applied supervised and unsupervised learning on structured datasets. Handled feature engineering, preprocessing and model evaluation with Scikit-learn.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ========================= CERTIFICATIONS ========================= -->
+<h2 align="center">🏅 Certifications & Achievements</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AWS-ML%20Essentials%20for%20Decision%20Makers-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/AWS-Intro%20to%20ML%3A%20Art%20of%20the%20Possible-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Adobe-Introduction%20to%20Generative%20AI-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Softpro%20India-ML%20Model%20Development%20Workshop-0072ff?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/Smart%20India%20Hackathon%202026-Internal%20Round%20Participant-7b2ff7?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+<!-- ========================= EDUCATION ========================= -->
+<h2 align="center">🎓 Education</h2>
+
+<div align="center">
+
+| 🎯 Degree | 🏫 Institution | 📅 Year |
+| :--- | :--- | :---: |
+| **B.Tech, CSE (AI & ML)** | Axis Institute of Technology and Management, Kanpur (AKTU) | 2023 – 2027 |
+| **Class XII** | Saraswati Vidya Mandir Inter College, Unnao | 2023 |
+| **Class X** | Saraswati Vidya Mandir Inter College, Unnao | 2021 |
+
+</div>
+
+<br/>
+
+<!-- ========================= GITHUB STATS ========================= -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=gyanendra04chauhan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gyanendra04chauhan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="top langs"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=gyanendra04chauhan&theme=radical&hide_border=true" alt="streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gyanendra04chauhan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" width="95%" alt="activity graph"/>
+
+</div>
+
+<br/>
+
+<!-- ========================= SOFT SKILLS ========================= -->
+<h2 align="center">🤝 Beyond Code</h2>
+
+<div align="center">
+
+`🗣️ Communication` &nbsp; `👑 Leadership` &nbsp; `👥 Team Management` &nbsp; `🧠 Critical Thinking` &nbsp; `🧩 Problem Solving`
+
+</div>
+
+<br/>
+
+<!-- ========================= FOOTER ========================= -->
+<h2 align="center">📫 Let's Build Something Together</h2>
+
+<div align="center">
+
+Open to **Data Science / ML internships**, collaborations, and good conversations about AI.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/gyanendra-chauhan7317"><img src="https://img.shields.io/badge/LinkedIn-gyanendra--chauhan7317-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:gyanendra2007chauhan@gmail.com"><img src="https://img.shields.io/badge/Email-gyanendra2007chauhan@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+*"Data is the new oil, but only if you refine it into insight."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,50:0072ff,100:00c6ff&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
